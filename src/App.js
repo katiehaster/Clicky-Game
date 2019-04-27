@@ -70,15 +70,14 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="Simpsons Clicky Game"
+          title="Mystic Click"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
 
         <Title>
-          Try to click on each character, but don't hit any duplicates, or
-          we'll release the hounds!!!
+          A game of mystic memory - even though the cards shuffle, don't click on the same one twice!
         </Title>
 
         <Container>
