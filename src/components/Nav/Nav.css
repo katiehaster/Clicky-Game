@@ -1,12 +1,14 @@
 nav {
-    width: 100%;
-    font-size: 3rem;
-    color: #fff;
-    margin-bottom: 50px;
-    background-color: rgb(231, 199, 204);
+    width: 60%;
+    font-size: 3.5rem;
+    padding: 10px;
+    color: rgb(53, 47, 47);
+    margin-top: 6%;
+    background-color: rgba(195, 91, 126, 0.2);
     background: cover;
-    height: auto;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Petit Formal Script', cursive;
+    border: 3px rgb(99, 99, 99) solid;
+    border-radius: 2px;
   }
   
   a {
