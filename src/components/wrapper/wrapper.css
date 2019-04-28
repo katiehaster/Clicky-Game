@@ -1,6 +1,6 @@
 .wrapper {
-    background: rgb(175, 175, 175);
-    background-image: url('http://www.mysticmamma.com/wp-content/uploads/2019/04/Zanis-WaldheimsviaMYSTICMAMMA-290x290.jpg');
+    background-image: url('https://solarsystem.nasa.gov/assets/webgl/fallback/fallback_moon.jpg');
+    background-image: center;
     height: 100%;
     display: flex;
     flex-flow: row wrap;

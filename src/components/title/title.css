@@ -1,9 +1,10 @@
 .title {
     text-align: right;
-    font-size: 2rem;
-    color:black;
+    font-size: 2.5rem;
+    color:white;
     font-style: bold;
     padding: 5px;
+    font-family: 'Dancing Script', cursive;
     background-color: rgb(228,159,126, .3);
     border: 1px solid rgb(99, 99, 99);
     margin-left: 135px;
